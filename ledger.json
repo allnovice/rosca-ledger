@@ -11,6 +11,17 @@
       },
       "prevHash": "0000",
       "hash": "a9cb2bd3e628d75807cc0b2d96755dde57f744e9019d82f6fea97513b468d1c6"
+    },
+    {
+      "index": 2,
+      "timestamp": "2025-12-17T01:38:25.519Z",
+      "data": {
+        "member": "Juan",
+        "amount": 1000,
+        "cycle": 1
+      },
+      "prevHash": "a9cb2bd3e628d75807cc0b2d96755dde57f744e9019d82f6fea97513b468d1c6",
+      "hash": "a0fc4cf4bef5ff1d0a55ee5d17f9fe505b2d22d638721ce74fbd49ca794c5c70"
     }
   ]
 }
